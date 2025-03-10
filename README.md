@@ -44,7 +44,7 @@
 
 ### **레포지토리 클론**
 ```bash
-git clone https://github.com/GwangAnLeeDunKinDonass/LoL_Troll_Detection_Project.git
+git clone 'https://github.com/GwangAnLeeDunKinDonass/LoL_Troll_Detection_Project.git'
 ```
 
 ---
