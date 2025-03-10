@@ -92,6 +92,12 @@ streamlit run Start.py
 
 ---
 
+## 📄 **PPT 자료**
+- **프로젝트 설명 자료:**  
+  - [📑 PPT 보기](./img/ppt.pdf)  
+
+---
+
 ## 🛠️ **사용된 기술 스택**
 - **GUI:** Streamlit  
 - **백엔드:** Python, Pandas, Scikit-learn  
