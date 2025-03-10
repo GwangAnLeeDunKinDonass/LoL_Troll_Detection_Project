@@ -87,8 +87,8 @@ streamlit run Start.py
 
 ## 🛠️ **사용된 기술 스택**
 - **GUI:** Streamlit  
-- **백엔드:** Python, Pandas, Scikit-learn  
-- **모델:** PCA, OCSVM, ISF 기반 탐지 모델  
+- **백엔드:** Python
+- **모델:** PCA, OCSVM, Isolation Forest
 
 ---
 
