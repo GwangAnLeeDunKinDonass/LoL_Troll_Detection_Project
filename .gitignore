@@ -1,0 +1,6 @@
+# 무시할 폴더와 파일
+data/
+model/
+*.zip
+*.pkl
+*.csv
