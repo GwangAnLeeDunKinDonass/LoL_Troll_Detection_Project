@@ -73,7 +73,6 @@ venv\Scripts\activate     # Windows
 ```
 
 ### 2. **필요 패키지 설치**
-> **requirements.txt**에 필요한 라이브러리가 포함되어 있습니다.
 
 ```bash
 pip install -r requirements.txt
@@ -86,12 +85,6 @@ streamlit run Start.py
 
 ---
 
-## 📄 **PPT 자료**
-- **프로젝트 설명 자료:**  
-  - [📑 PPT 보기](./img/ppt.pdf)  
-
----
-
 ## 🛠️ **사용된 기술 스택**
 - **GUI:** Streamlit  
 - **백엔드:** Python, Pandas, Scikit-learn  
@@ -99,7 +92,13 @@ streamlit run Start.py
 
 ---
 
-## 🔗 **참고 링크**
+## 참고 자료
+
+### 📄 **PPT 자료**
+- **프로젝트 설명 자료:**  
+  - [📑 PPT 보기](./img/ppt.pdf)  
+
+### 🔗 **참고 링크**
 - [Riot Developer Portal](https://developer.riotgames.com/)
 - [Streamlit 공식 문서](https://docs.streamlit.io/)
 
