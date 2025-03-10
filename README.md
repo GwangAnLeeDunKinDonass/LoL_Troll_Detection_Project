@@ -46,9 +46,7 @@
 git clone 'https://github.com/GwangAnLeeDunKinDonass/LoL_Troll_Detection_Project.git'
 ```
 
----
-
-## 🗂️ **대용량 파일 다운로드 방법 (LFS 사용 안됨)**
+### ⚠️ **Model & Data 다운로드 방법 (LFS 사용 안됨)**
 
 1. **구글 드라이브에서 `models_and_data.zip` [다운로드](https://drive.google.com/file/d/1IU8jBlGDMmaouHl26G3ufmls0_UqVvpz/view?usp=sharing)**.  
 2. 다운로드한 `models_and_data.zip`을 프로젝트 루트 (`LoL_Troll_Detection_Project`)에 **압축 해제**하세요.  
@@ -74,16 +72,12 @@ source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 ```
 
----
-
 ### 2. **필요 패키지 설치**
 > **requirements.txt**에 필요한 라이브러리가 포함되어 있습니다.
 
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ### 3. **Streamlit 실행**
 ```bash
