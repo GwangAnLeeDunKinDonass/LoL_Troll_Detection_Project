@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ### 3. **Streamlit 실행**
 ```bash
-streamlit run Start.py
+streamlit run Title.py
 ```
 
 ---
