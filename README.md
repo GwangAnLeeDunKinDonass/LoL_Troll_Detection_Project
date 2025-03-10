@@ -42,16 +42,26 @@
 
 ## 📥 **Clone 받는 법**
 
-> **💡 Git LFS (Large File Storage)**가 필요합니다.  
-> **LFS 설치가 안되어 있으면** 아래 명령어로 설치해 주세요.
-
-```bash
-git lfs install
-```
-
 ### **레포지토리 클론**
 ```bash
 git clone https://github.com/GwangAnLeeDunKinDonass/LoL_Troll_Detection_Project.git
+```
+
+---
+
+## 🗂️ **대용량 파일 다운로드 방법 (LFS 사용 안됨)**
+
+1. **구글 드라이브에서 `models_and_data.zip` [다운로드](https://drive.google.com/file/d/1IU8jBlGDMmaouHl26G3ufmls0_UqVvpz/view?usp=sharing)**.  
+2. 다운로드한 `models_and_data.zip`을 프로젝트 루트 (`LoL_Troll_Detection_Project`)에 **압축 해제**하세요.  
+3. **폴더 구조**가 아래와 같아야 합니다:
+
+```
+LoL_Troll_Detection_Project/
+├── data/
+├── model/
+├── img/
+├── Start.py
+├── ...
 ```
 
 ---
@@ -84,9 +94,8 @@ streamlit run Start.py
 ---
 
 ## 🛠️ **사용된 기술 스택**
-- **프론트엔드:** Streamlit  
+- **GUI:** Streamlit  
 - **백엔드:** Python, Pandas, Scikit-learn  
-- **데이터 관리:** Git LFS (Large File Storage)  
 - **모델:** PCA, OCSVM, ISF 기반 탐지 모델  
 
 ---
@@ -94,7 +103,6 @@ streamlit run Start.py
 ## 🔗 **참고 링크**
 - [Riot Developer Portal](https://developer.riotgames.com/)
 - [Streamlit 공식 문서](https://docs.streamlit.io/)
-- [Git LFS 공식 문서](https://git-lfs.github.com/)
 
 ---
 
